@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "1d6a539ec0c4ebc9145a6fc72d8ac409"
+build_time: [1545927933, 331364000]
+inputs:
+  "/Users/guilhermeantunes/Desktop/PackageTutorial/HelloKit/Sources/HelloKit/HelloKit.swift": [1545927928, 0]
